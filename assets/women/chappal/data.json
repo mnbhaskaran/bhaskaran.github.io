@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Blue Tyga",
+    "image": "/001.jpg",
+    "content": "Best Chappal Blue Tyga",
+    "price": "350",
+    "size": "7, 8, 9",
+    "color": ["red", "blue"]
+  },
+  {
+    "name": "Blue Tyga",
+    "image": "/002.jpg",
+    "content": "Best Chappal Blue Tyga",
+    "price": "350",
+    "size": "7, 8, 9",
+    "color": ["red", "blue"]
+  },
+  {
+    "name": "Walkaro",
+    "image": "/003.jpg",
+    "content": "Best Chappal Walkaro",
+    "price": "350",
+    "size": "7, 8, 9",
+    "color": ["red", "blue"]
+  },
+  {
+    "name": "Walkaro",
+    "image": "/004.jpg",
+    "content": "Best Chappal Walkaro",
+    "price": "350",
+    "size": "7, 8, 9",
+    "color": ["red", "blue"]
+  }
+]
