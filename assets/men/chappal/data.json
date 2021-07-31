@@ -1,7 +1,7 @@
 [
   {
     "name": "Blue Tyga",
-    "image": "/001.jpg",
+    "image": "/001.png",
     "content": "Best Chappal Blue Tyga",
     "price": "350",
     "size": "7, 8, 9",
@@ -9,7 +9,7 @@
   },
   {
     "name": "Blue Tyga",
-    "image": "/002.jpg",
+    "image": "/002.png",
     "content": "Best Chappal Blue Tyga",
     "price": "350",
     "size": "7, 8, 9",
@@ -17,7 +17,7 @@
   },
   {
     "name": "Walkaro",
-    "image": "/003.jpg",
+    "image": "/003.png",
     "content": "Best Chappal Walkaro",
     "price": "350",
     "size": "7, 8, 9",
