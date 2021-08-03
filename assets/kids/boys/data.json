@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Walkaro",
+    "image": "/001.jpg",
+    "content": "walkaro sample",
+    "available": true,
+    "skuId": "1001"
+  }]
