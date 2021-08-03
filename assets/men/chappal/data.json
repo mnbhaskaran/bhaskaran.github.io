@@ -22,5 +22,14 @@
     "price": "350",
     "size": "7, 8, 9",
     "color": ["red", "blue"]
+  },{
+      "name": "-",
+    "image": "/IMG-20210723-WA0101.jpg",
+    "content": "Best Chappal Walkaro",
+    "price": "350",
+    "size": "7, 8, 9",
+    "color": ["red", "blue"]
+  
   }
+  
 ]
